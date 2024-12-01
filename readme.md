@@ -12,8 +12,6 @@
 
   
 </div>
-<p align="center">Abstract</p>
-MetaSphere is a platform linking Indian start-ups with investors. It features a database of start-ups, categorized by sectors like health and food, with filters for easy exploration. Investors can invest, offer suggestions, and connect via chat, while entrepreneurs can pitch ideas and engage directly. The app streamlines networking, fostering collaboration and growth.
 
 ## Table of Contents
 - [Introduction](#introduction) <br>
@@ -22,6 +20,9 @@ MetaSphere is a platform linking Indian start-ups with investors. It features a 
 - [Preview](#previews)
 - [Contribution](#contribution)
 
+##introduction<br>
+<p align="center">Abstract</p>
+MetaSphere is a platform linking Indian start-ups with investors. It features a database of start-ups, categorized by sectors like health and food, with filters for easy exploration. Investors can invest, offer suggestions, and connect via chat, while entrepreneurs can pitch ideas and engage directly. The app streamlines networking, fostering collaboration and growth.
 
 ## Requirements
 Flutter 3.19.2<br>
