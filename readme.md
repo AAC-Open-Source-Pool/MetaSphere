@@ -43,13 +43,10 @@ Ex:-
 
 
 ## Preview
-Screenshots of the project
-<img src="https://imgur.com/IxdHntz">
-<img src="https://imgur.com/QZu4392">
-<img src="https://imgur.com/cF1TUCh">
-<img src="https://imgur.com/JFKo92e">
-( create a url using imgur and paste in the place or url )
-ex:-
+<img src="https://i.imgur.com/IxdHntz.png">
+<img src="https://i.imgur.com/QZu4392.png">
+<img src="https://i.imgur.com/cF1TUCh.png">
+<img src="https://i.imgur.com/JFKo92e.png">
  
 
 
