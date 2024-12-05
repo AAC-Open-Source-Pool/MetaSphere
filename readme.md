@@ -8,7 +8,6 @@
 <b>Team Member 3:</b><p>Keerthana</p>
 <b>Team Member 4:</b><p>Siva Sathwika</p>
 <div align="center">
-  <img src="METASPHERE">(logo along with project name)
 
   
 </div>
