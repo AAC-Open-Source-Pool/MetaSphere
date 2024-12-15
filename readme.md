@@ -29,8 +29,8 @@ Tools:
 - DevTools 2.31.1<br>
 
  Firebase versions:<br>
- firebase_core: ^3.4.0<br>
-  firebase_auth: ^5.2.0<br>
+ firebase_core: 3.4.0<br>
+  firebase_auth: 5.2.0<br>
 
 ## Installation and usage
 Step by step process of cloning the project, installments needed and how to use it
