@@ -20,13 +20,14 @@
 - [Contribution](#contribution)
 
 ## introduction<br>
-<p align="center">Abstract</p>
 MetaSphere is a platform linking Indian start-ups with investors. It features a database of start-ups, categorized by sectors like health and food, with filters for easy exploration. Investors can invest, offer suggestions, and connect via chat, while entrepreneurs can pitch ideas and engage directly. The app streamlines networking, fostering collaboration and growth.
 
 ## Requirements
 Flutter 3.19.2<br>
-Tools • Dart 3.3.0 <br>
-      • DevTools 2.31.1<br>
+Tools:
+- Dart 3.3.0 <br>
+- DevTools 2.31.1<br>
+
  Firebase versions:<br>
  firebase_core: ^3.4.0<br>
   firebase_auth: ^5.2.0<br>
